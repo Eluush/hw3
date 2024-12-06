@@ -1,6 +1,5 @@
 public class Main {
 
-
     public static void main(String[] args) {
 
         byte a = 1;
@@ -93,24 +92,24 @@ public class Main {
 
         int masha = 67760;
         int masha1 = masha / 100 * 10;
-        int mashaUp = masha + masha1 ;
+        int mashaUp = masha + masha1;
         int revenue = 67760 * 12;
-        int revenue1 = mashaUp * 12 ;
+        int revenue1 = mashaUp * 12;
         int difference1 = revenue1 - revenue;
         System.out.println("Маша теперь получает " + mashaUp + " рублей.Годовой доход вырос на " + difference1 + " рублей");
-        int denis = 83690 ;
-        int denis1 = denis / 100 * 10 ;
+        int denis = 83690;
+        int denis1 = denis / 100 * 10;
         int denisUp = denis + denis1;
-        int revenueD = denis * 12 ;
+        int revenueD = denis * 12;
         int revenueD1 = denisUp * 12;
         int difference2 = revenueD1 - revenueD;
-        System.out.println("Денис теперь получает " +denisUp + " рублей в год.Годовой доход вырос на " + difference2 + " рублей");
-        int kris = 76230 ;
+        System.out.println("Денис теперь получает " + denisUp + " рублей в год.Годовой доход вырос на " + difference2 + " рублей");
+        int kris = 76230;
         int kris1 = 76230 / 100 * 10;
         int krisUp = kris + kris1;
         int revenueK = kris * 12;
         int revenueK1 = krisUp * 12;
-        int difference3 = revenueK1 - revenueK ;
+        int difference3 = revenueK1 - revenueK;
         System.out.println("Кристина теперь получает " + krisUp + " рублей в год.Годовой доход вырос на " + difference3 + " рублей");
 
 
