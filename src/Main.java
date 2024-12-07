@@ -28,8 +28,7 @@ public class Main {
         float v = 27.12f;
         System.out.println(v);
         double q = 2.786;
-        System.out.println(q
-        );
+        System.out.println(q);
 
         byte oneClass = 23;
         byte twoClass = 27;
