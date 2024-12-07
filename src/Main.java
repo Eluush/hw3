@@ -2,6 +2,7 @@ public class Main {
 
     public static void main(String[] args) {
 
+
         byte a = 1;
         System.out.println("Значение переменной " + "a " + "с типом " + " byte" + " равно " + a);
         short b = 2;
@@ -110,6 +111,7 @@ public class Main {
         int revenueK1 = krisUp * 12;
         int difference3 = revenueK1 - revenueK;
         System.out.println("Кристина теперь получает " + krisUp + " рублей в год.Годовой доход вырос на " + difference3 + " рублей");
+
 
 
     }
